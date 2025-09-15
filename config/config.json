@@ -2,12 +2,19 @@
     "data": {
         "Token": "",
         "MXH": {
+            "TikTok": {},
+            "FACEBOOK": {},
+            "INSTAGRAM": {}
+        },
+        "Token_TTC": "",
+        "MXH_TTC": {
             "TikTok": {
+               
             },
             "FACEBOOK": {},
             "INSTAGRAM": {}
         },
         "copyright": "DENO9099",
-        "VERSION": "BETA v1.0"
+        "VERSION": "BETA v1.1 Public"
     }
 }
