@@ -1,0 +1,27 @@
+{
+    "data": {
+        "Token": "",
+        "MXH": {
+            "TikTok": {},
+            "FACEBOOK": {},
+            "INSTAGRAM": {}
+        },
+        "Token_TTC": "",
+        "MXH_TTC": {
+            "TikTok": {},
+            "FACEBOOK": {
+            },
+            "INSTAGRAM": {}
+        },
+        "Config": {
+            "LIKE": "ON",
+            "REACTION": "ON",
+            "REACTIONCMT": "ON",
+            "SHARE": "ON",
+            "Failed_Job": "OFF",
+            "Debug": "OFF"
+        },
+        "copyright": "DENO9099",
+        "VERSION": "BETA v1.4 public"
+    }
+}
