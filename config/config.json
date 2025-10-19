@@ -3,14 +3,15 @@
         "Token": "",
         "MXH": {
             "TikTok": {},
-            "FACEBOOK": {},
+            "FACEBOOK": {
+               
+            },
             "INSTAGRAM": {}
         },
         "Token_TTC": "",
         "MXH_TTC": {
             "TikTok": {},
-            "FACEBOOK": {
-            },
+            "FACEBOOK": {},
             "INSTAGRAM": {}
         },
         "Config": {
@@ -18,10 +19,11 @@
             "REACTION": "ON",
             "REACTIONCMT": "ON",
             "SHARE": "ON",
+            "LIKE_PAGE": "ON",
             "Failed_Job": "OFF",
             "Debug": "OFF"
         },
         "copyright": "DENO9099",
-        "VERSION": "BETA v1.4 public"
+        "VERSION": "BETA v1.5 public"
     }
 }
